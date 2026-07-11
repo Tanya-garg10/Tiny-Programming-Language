@@ -409,7 +409,3 @@ console.log('[v0] Executing:', stmt.type);
 - Parser: ~490 lines
 - Interpreter: ~440 lines
 - Total: ~1,310 lines (excluding UI)
-
----
-
-**For more information, see README.md and LANGUAGE_GUIDE.md**
