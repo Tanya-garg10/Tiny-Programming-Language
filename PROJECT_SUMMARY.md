@@ -13,8 +13,6 @@
 ✅ **Comprehensive Documentation** - Language guide, architecture docs, and examples  
 ✅ **Production Ready** - Deployed on Vercel, fully typed with TypeScript
 
----
-
 ## What's Included
 
 ### Core Components
@@ -68,8 +66,6 @@ All working and tested:
 ✓ Fibonacci Sequence (partially working)
 ```
 
----
-
 ## Language Features
 
 ### Data Types
@@ -108,8 +104,6 @@ max(...numbers)      - Maximum value
 min(...numbers)      - Minimum value
 sum(array)           - Sum array elements
 ```
-
----
 
 ## Running Examples
 
@@ -172,8 +166,6 @@ Power: 225
 Modulo: 0
 ```
 
----
-
 ## Technical Stack
 
 - **Language**: TypeScript 5.7
@@ -181,8 +173,6 @@ Modulo: 0
 - **Styling**: Tailwind CSS 4.2
 - **Deployment**: Vercel
 - **Package Manager**: pnpm
-
----
 
 ## Getting Started
 
@@ -211,8 +201,6 @@ pnpm dev
 5. Use "Copy" to copy code to clipboard
 6. Use "Clear" to clear output
 
----
-
 ## Project Statistics
 
 | Metric | Value |
@@ -228,8 +216,6 @@ pnpm dev
 | Supported Keywords | 20+ |
 | Built-in Functions | 8+ |
 | Maximum Test Output | FizzBuzz (1-100) |
-
----
 
 ## Architecture Highlights
 
@@ -266,8 +252,6 @@ Source Code
    - ReturnValue class for function returns
    - Clean control flow separation
 
----
-
 ## Performance
 
 ### Execution Times (Benchmarks)
@@ -279,8 +263,6 @@ Source Code
 | FizzBuzz (1-100) | ~5ms |
 | Factorial(10) | < 1ms |
 | Fibonacci(15) | ~2ms |
-
----
 
 ## Known Limitations & Future Work
 
@@ -319,8 +301,6 @@ Source Code
    - File I/O
    - JSON support
 
----
-
 ## File Structure
 
 ```
@@ -347,8 +327,6 @@ spark-language-interpreter/
 └── .gitignore                  # Git ignore rules
 ```
 
----
-
 ## Deployment
 
 ### Deploy to Vercel
@@ -365,8 +343,6 @@ The project is a standard Next.js app and can be deployed to:
 - AWS Amplify
 - GitHub Pages
 - Docker containers
-
----
 
 ## Learning Resources
 
@@ -394,8 +370,6 @@ This project is an excellent resource for learning about:
    - State management
    - Real-time feedback
    - UI/UX best practices
-
----
 
 ## Contributing & Extending
 
@@ -425,14 +399,6 @@ this.globalScope.set('functionName', {
 
 Follow the same pattern as if/while statements in the parser and interpreter.
 
----
-
-## License
-
-MIT License - Free for educational and commercial use
-
----
-
 ## Support
 
 For questions or issues:
@@ -440,8 +406,6 @@ For questions or issues:
 2. Review ARCHITECTURE.md for implementation details
 3. Look at example programs in the IDE
 4. Review test cases and examples
-
----
 
 ## Credits
 
@@ -457,6 +421,3 @@ Built as an educational programming language interpreter project.
 - ✅ Clean, typed TypeScript code
 - ✅ Responsive web interface
 
----
-
-**Start writing Spark programs now at the [Spark IDE](http://localhost:3000)!**
