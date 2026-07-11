@@ -314,16 +314,4 @@ Possible enhancements:
 - Debugger integration
 - Performance optimizations
 
-## 📄 License
-
-MIT License - Feel free to use for learning and education.
-
-## 🚀 Quick Deploy
-
-Deploy your own Spark IDE to Vercel:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/spark-language)
-
----
-
 **Built with ❤️ as an educational programming language project**
