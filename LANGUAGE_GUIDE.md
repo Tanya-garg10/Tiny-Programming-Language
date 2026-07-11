@@ -540,6 +540,4 @@ if x < 5:
 print(result)
 ```
 
----
-
 **For more examples and interactive learning, visit the Spark IDE!**
